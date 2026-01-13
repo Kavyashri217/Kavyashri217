@@ -24,15 +24,6 @@ Algorithms and System Design.
 - Dashboard to track group activity and member counts
 - Tech: Node.js, REST APIs, MongoDB
 
-> Check out my repositories to see more:
-
----
-
-## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kavyashri217&show_icons=true)
-
----
-
 ## Connect with Me
 - LinkedIn: linkedin.com/in/kavyashri-k-r-60675926a
 - Email: kavya_shri@icloud.com
