@@ -25,7 +25,7 @@ Algorithms and System Design.
 - Tech: Node.js, REST APIs, MongoDB
 
 ## Connect with Me
-- LinkedIn: linkedin.com/in/kavyashri-k-r-60675926a
+- LinkedIn: https://www.linkedin.com/in/kavyashri-k-r-60675926a
 - Email: kavya_shri@icloud.com
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
