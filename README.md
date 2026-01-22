@@ -1,5 +1,5 @@
 # Hi, I'm Kavyashri
-I'm an OSS Engineer and Freelance Developer who loves to build things and solve real world problems. Also learning deeply about Data Structures,
+I'm a Software Engineer and Open Source Contributor who loves to build things and solve real world problems. Also learning deeply about Data Structures,
 Algorithms and System Design. 
 
 ## About Me
