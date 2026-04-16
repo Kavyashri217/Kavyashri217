@@ -26,7 +26,7 @@ Algorithms and System Design.
 
 ## Connect with Me✅
 - LinkedIn: https://www.linkedin.com/in/kavyashri-k-r-60675926a
-- Email: kavya_shri@icloud.com
+- Email: kavya09kr@gmail.com
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 ![Node.js](https://img.shields.io/badge/Node.js-green)
