@@ -8,18 +8,6 @@ I build practical, user-focused products that sit at the intersection of softwar
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Product+Builder;Problem+Solver" alt="Typing SVG" />
 </p>
 
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-</div>
-
 ## About Me
 
 - I am a software engineer with a strong interest in web development, data structures, algorithms, and scalable system design.
@@ -117,7 +105,7 @@ I enjoy learning through building. A few of my current areas of interest include
 
 ## Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/kavyashri-k-r-60675926a
+- LinkedIn: https://www.linkedin.com/in/kavyashrikr
 - Email: kavya09kr@gmail.com
 - GitHub: https://github.com/Kavyashri217
 
@@ -128,3 +116,15 @@ I enjoy learning through building. A few of my current areas of interest include
 ---
 
 > Building software that is useful, thoughtful, and impactful.
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
