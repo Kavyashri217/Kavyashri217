@@ -60,12 +60,6 @@ I build practical, user-focused products that sit at the intersection of softwar
 
 ## Featured Projects
 
-### [DevSquad-AI](https://github.com/Kavyashri217/DevSquad-AI)
-A collaborative multi-agent AI development environment powered by Gemini and DeepSeek. It features a virtual dev team of Senior, Junior, Tester, and Researcher roles that can review code, research the web, and edit files in real time.
-
-### [share-local](https://github.com/Kavyashri217/share-local)
-A lightweight file-sharing app designed to make local sharing simple and seamless.
-
 ### [build-connect](https://github.com/Kavyashri217/build-connect)
 A platform connecting architects and civil engineers with people who want to build custom homes from scratch.
 
@@ -83,6 +77,12 @@ A focused repository for strengthening data structures and algorithm knowledge t
 
 ### [system-design-learning-repo](https://github.com/Kavyashri217/system-design-learning-repo)
 A curated learning repository for system design concepts, notes, resources, and practical study material.
+
+### [DevSquad-AI](https://github.com/Kavyashri217/DevSquad-AI)
+A collaborative multi-agent AI development environment powered by Gemini and DeepSeek. It features a virtual dev team of Senior, Junior, Tester, and Researcher roles that can review code, research the web, and edit files in real time.
+
+### [share-local](https://github.com/Kavyashri217/share-local)
+A lightweight file-sharing app designed to make local sharing simple and seamless.
 
 ## Learning & Exploration
 
