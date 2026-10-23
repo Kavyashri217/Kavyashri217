@@ -66,21 +66,6 @@ A platform connecting architects and civil engineers with people who want to bui
 ### [adira](https://github.com/Kavyashri217/adira)
 A project focused on financial education for women, helping them build better money habits around saving, investing, emergency funds, and insurance.
 
-### [paperbanana](https://github.com/Kavyashri217/paperbanana)
-An open-source project focused on automated academic figures, diagrams, and research visuals, with extensions to slide generation and visual storytelling.
-
-### [taste-skill](https://github.com/Kavyashri217/taste-skill)
-An AI skill system designed to give coding agents a stronger sense of visual taste, art direction, reference-based design, and browser-aware evaluation.
-
-### [real-dsa](https://github.com/Kavyashri217/real-dsa)
-A focused repository for strengthening data structures and algorithm knowledge through practical problem solving.
-
-### [system-design-learning-repo](https://github.com/Kavyashri217/system-design-learning-repo)
-A curated learning repository for system design concepts, notes, resources, and practical study material.
-
-### [DevSquad-AI](https://github.com/Kavyashri217/DevSquad-AI)
-A collaborative multi-agent AI development environment powered by Gemini and DeepSeek. It features a virtual dev team of Senior, Junior, Tester, and Researcher roles that can review code, research the web, and edit files in real time.
-
 ### [share-local](https://github.com/Kavyashri217/share-local)
 A lightweight file-sharing app designed to make local sharing simple and seamless.
 
@@ -93,6 +78,13 @@ I enjoy learning through building. A few of my current areas of interest include
 - AI-powered tools and workflow automation
 - Product thinking and building useful software
 - Open-source collaboration and community-driven learning
+  
+### [real-dsa](https://github.com/Kavyashri217/real-dsa)
+A focused repository for strengthening data structures and algorithm knowledge through practical problem solving.
+
+### [system-design-learning-repo](https://github.com/Kavyashri217/system-design-learning-repo)
+A curated learning repository for system design concepts, notes, resources, and practical study material.
+
 
 ## Open Source & Practice Repositories
 
