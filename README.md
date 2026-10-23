@@ -112,7 +112,7 @@ A curated learning repository for system design concepts, notes, resources, and 
 - GitHub: https://github.com/Kavyashri217
 
 <p align="center">
-  ![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
+  <img src="https://img.shields.io/badge/Profile%20Views-0-blue" alt="Profile Views" />
 </p>
 
 ---
