@@ -2,10 +2,10 @@
 
 Software Engineer | Full-Stack Developer | AI Enthusiast
 
-I build practical, user-focused products that sit at the intersection of software engineering, AI, and real-world impact. From full-stack web apps to AI-powered workflows and collaboration tools, I enjoy turning ideas into experiences that are useful, scalable, and thoughtfully designed.
+I build practical, user-focused products that sit at the intersection of software engineering, AI, and real-world impact. From full-stack web apps to AI-powered workflows and collaboration tools, I create products that improve how people collaborate, learn, and work.
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Product+Builder;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=700&lines=Software+Engineer;Full-Stack+Developer;AI+%26+Product+Bui;Backend+Engineer;Problem+Solver" alt="Typing SVG" />
 </p>
 
 ## About Me
@@ -22,6 +22,15 @@ I build practical, user-focused products that sit at the intersection of softwar
 - Full-Stack Web Development
 - AI / ML and LLM-powered applications
 - Building polished, impactful user experiences
+
+## Recent Work
+
+### Payment Infrastructure & Checkout Experience
+- Built Razorpay payment flows with endpoints for payment initiation, status checks, order updates, webhook handling, and guest order management.
+- Added secure payment status updates and order lifecycle tracking for seamless backend operations.
+- Fixed the Razorpay checkout response contract to return the correct `key_id` field required by the frontend.
+- Configured `trust proxy` to support ngrok and reverse-proxy environments without rate limiter issues in production-like setups.
+- Validated the flow locally with live Razorpay keys and confirmed the payment popup opens and records orders successfully in MongoDB.
 
 ## Tech Stack
 
@@ -78,13 +87,12 @@ I enjoy learning through building. A few of my current areas of interest include
 - AI-powered tools and workflow automation
 - Product thinking and building useful software
 - Open-source collaboration and community-driven learning
-  
+
 ### [real-dsa](https://github.com/Kavyashri217/real-dsa)
 A focused repository for strengthening data structures and algorithm knowledge through practical problem solving.
 
 ### [system-design-learning-repo](https://github.com/Kavyashri217/system-design-learning-repo)
 A curated learning repository for system design concepts, notes, resources, and practical study material.
-
 
 ## Open Source & Practice Repositories
 
