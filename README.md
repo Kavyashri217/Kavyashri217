@@ -25,12 +25,14 @@ I build practical, user-focused products that sit at the intersection of softwar
 
 ## Recent Work
 
-### Payment Infrastructure & Checkout Experience
+### [Payment Infrastructure & Checkout Experience](https://github.com/therayancio/MangoBoxIndia/pull/1)
 - Built Razorpay payment flows with endpoints for payment initiation, status checks, order updates, webhook handling, and guest order management.
 - Added secure payment status updates and order lifecycle tracking for seamless backend operations.
 - Fixed the Razorpay checkout response contract to return the correct `key_id` field required by the frontend.
 - Configured `trust proxy` to support ngrok and reverse-proxy environments without rate limiter issues in production-like setups.
 - Validated the flow locally with live Razorpay keys and confirmed the payment popup opens and records orders successfully in MongoDB.
+
+View the implementation here: [MangoBoxIndia payment backend PR](https://github.com/therayancio/MangoBoxIndia/pull/1)
 
 ## Tech Stack
 
