@@ -112,7 +112,7 @@ A curated learning repository for system design concepts, notes, resources, and 
 - GitHub: https://github.com/Kavyashri217
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kavyashri217&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views" />
+  ![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
 </p>
 
 ---
