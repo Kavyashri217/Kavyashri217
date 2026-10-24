@@ -110,11 +110,6 @@ A curated learning repository for system design concepts, notes, resources, and 
 - LinkedIn: https://www.linkedin.com/in/kavyashrikr
 - Email: kavya09kr@gmail.com
 - GitHub: https://github.com/Kavyashri217
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-0-blue" alt="Profile Views" />
-</p>
-
 ---
 
 > Building software that is useful, thoughtful, and impactful.
