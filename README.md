@@ -37,10 +37,12 @@ View the implementation here: [MangoBoxIndia payment backend PR](https://github.
 ## Tech Stack
 
 ### Languages
+
 - JavaScript
 - TypeScript
 - Python
 - SQL
+- Java(Basics)
 
 ### Frontend
 - React
