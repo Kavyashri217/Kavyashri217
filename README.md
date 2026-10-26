@@ -52,7 +52,7 @@ View the implementation here: [MangoBoxIndia payment backend PR](https://github.
 
 ### Backend
 - Node.js
-- Express
+- Express.js
 - REST APIs
 - Authentication and service integration
 
